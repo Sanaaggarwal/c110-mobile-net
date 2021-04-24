@@ -1,0 +1,36 @@
+body{
+    font-family: 'Merriweather', serif; 
+    background-color:dimgray;
+}
+.header_div{
+    background-color: rgb(3, 8, 95);
+    color:honeydew;
+}
+.header_div img{
+    width:100px;
+}
+.main_div{
+    background-color: rgb(173, 113, 151);
+    padding:10px;
+    margin-top:15px;
+    border:3px solid rgb(0, 0, 0);
+}
+.main_div label{
+    background-color:white;
+    width:300px;
+    padding:10px;
+    margin-bottom:0px;
+    box-shadow:5px 5px 5px rgb(0, 0, 0);
+}
+#camera{
+    border:2px solid blue;
+    width:300px;
+    height:300px;
+    box-shadow:5px 5px 10px white;
+    margin-top:20px;
+}
+.main_div button{
+    color:black;
+    margin-top:20px;
+    box-shadow:5px 5px 5px indigo;
+}
